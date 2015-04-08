@@ -2,7 +2,10 @@
 <resources>
 
     <string name="app_name">sinaPark</string>
+    <string name="button">activityTest</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="new_activity">new activity!!!!!</string>
+    <string name="log"> 我知道所有人的结局,却惟独不知道自己的结局,以前一直是旁观者的角度,看着各人走向他们的结局,如今自己也被拖进了这幕戏中,将来我该何去何从?!!!!!</string>
 
 </resources>

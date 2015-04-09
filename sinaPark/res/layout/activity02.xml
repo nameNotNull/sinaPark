@@ -20,6 +20,17 @@
         android:text="@string/log"
         android:textSize="@dimen/activity_script"
         android:layout_below="@id/myTextViewNewActivity" />
-   
+      <Button
+   	    android:id="@+id/newActivityButton"
+   	    android:layout_width="wrap_content"
+   	    android:layout_height="wrap_content"
+   	    android:layout_below="@id/script"
+   	    android:text="@string/button"/>
+       <DatePicker 
+        android:id="@+id/dataPicker"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/newActivityButton"
+    />
 
 </RelativeLayout>

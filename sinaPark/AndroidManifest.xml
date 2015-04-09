@@ -24,6 +24,8 @@
         </activity>
         <activity android:name=".activity02" android:label="@string/new_activity">
             </activity>
+            <activity android:name=".activity03" android:label="@string/activity03">
+            </activity>
     </application>
 
 </manifest>
